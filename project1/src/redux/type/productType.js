@@ -1,0 +1,4 @@
+export const SET_PRODUCT = "SET_PRODUCT"
+export const SET_INCREMENT_PRODUCT = "SET_INCREMENT_PRODUCT"
+export const SET_RESET = "SET_RESET"
+export const SET_NEW_PRODUCT = "SET_NEW_PRODUCT"
